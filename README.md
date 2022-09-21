@@ -6,7 +6,7 @@ DSA problem
 <li><a href = "https://leetcode.com/problems/maximum-subarray/"> Maximum Subarray Sum </a></li>
 <li><a href = "https://leetcode.com/problems/contains-duplicate/"> Contains Duplicate</a></li>
 <li><a href = "https://www.geeksforgeeks.org/chocolate-distribution-problem/">Chocolate Distribution Problem</a></li>
-<li></li>
+<li><a href = "https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></li>
 <li></li>
 <li></li>
 <li></li>
