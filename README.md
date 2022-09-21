@@ -1,7 +1,11 @@
-This repository contains important problem and their solution.
+DSA Apna College.
 
 <ol>
 <li><a href = "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"> Maximum and minimum of an array using minimum number of comparisons</a></li>
+<li><a href = "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"> Reverse the array </a></li>
+<li><a href = "https://leetcode.com/problems/maximum-subarray/"> Maximum Subarray Sum </a></li>
+<li><a href = "https://leetcode.com/problems/contains-duplicate/"> Contains Duplicate</a></li>
+<li><a href = "https://www.geeksforgeeks.org/chocolate-distribution-problem/">Chocolate Distribution Problem</a></li>
 <li></li>
 <li></li>
 <li></li>
@@ -9,11 +13,6 @@ This repository contains important problem and their solution.
 <li></li>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-
 <li></li>
 <li></li>
 <li></li>
