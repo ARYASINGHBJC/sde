@@ -1,4 +1,4 @@
-DSA Apna College.
+DSA problem
 
 <ol>
 <li><a href = "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"> Maximum and minimum of an array using minimum number of comparisons</a></li>
