@@ -10,7 +10,7 @@ DSA problem
 <li><a href = "https://leetcode.com/problems/next-permutation/"> Next Permutation</a></li>
 <li><a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best time to Buy and Sell Stock</a></li>
 <li><a href = "https://www.interviewbit.com/problems/repeat-and-missing-number-array/"> Repeating and Missing Number </a></li>
-<li><a href = "https://leetcode.com/problems/kth-largest-element-in-an-array/">kth Largest element </a></li>
+<li><a href = "https://leetcode.com/problems/kth-largest-element-in-an-array/">kth Largest element in an Array</a></li>
 <li></li>
 <li></li>
 <li></li>
