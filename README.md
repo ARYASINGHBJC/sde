@@ -17,7 +17,7 @@ DSA problem
 <li><a href = "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/">Find Minimum in Rotated Sorted Array</a></li>
 <li><a href = "https://leetcode.com/problems/3sum/"> Three Sum </a></li>
 <li><a href = "https://leetcode.com/problems/container-with-most-water/"> Container with Most water </a></li>
-<li></li>
+<li><a href = "https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1"> Merge Overlapping Intervals</a></li>
 <li></li>
 <li></li>
 <li></li>
