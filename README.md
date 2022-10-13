@@ -21,7 +21,7 @@ DSA problem
 <li><a href = "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/">Minimum merge operation to make array palindrome</a></li>
 <li><a href = "https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of two Sorted Array</a></li>
 <li><a href = "https://leetcode.com/problems/first-missing-positive/discuss/?currentPage=1&orderBy=most_votes">First Missing Positive</a></li>
-<li></li>
+<li><a href = "https://leetcode.com/problems/decode-ways/"> Decode Ways </a></li>
 <li></li>
 <li></li>
 <li></li>
