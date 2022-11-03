@@ -23,7 +23,7 @@ DSA problem
 <li><a href = "https://leetcode.com/problems/first-missing-positive/discuss/?currentPage=1&orderBy=most_votes">First Missing Positive</a></li>
 <li><a href = "https://leetcode.com/problems/decode-ways/"> Decode Ways </a></li>
 <li><a HREF = "https://leetcode.com/problems/merge-k-sorted-lists/description/"> Merge K Sorted Lists</li>
-<li></li>
+<li><a href = "https://leetcode.com/problems/longest-palindromic-substring/description/ "> Longest Palindromic Substring </li>
 <li></li>
 <li></li>
 <li></li>
